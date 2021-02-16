@@ -1,14 +1,14 @@
 package main
 
 import (
-	"controller"
 	"database/sql"
 	"encoding/json"
 	"fmt"
+	"github.com/FlowingFire66/party/controller"
+	"github.com/FlowingFire66/party/logger"
 	_ "github.com/go-sql-driver/mysql"
 	"io/ioutil"
 	"log"
-	"logger"
 	"net/http"
 	"os"
 )

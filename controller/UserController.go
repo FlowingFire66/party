@@ -3,10 +3,10 @@ package controller
 import (
 	"encoding/json"
 	"fmt"
+	"github.com/FlowingFire66/party/model"
+	"github.com/FlowingFire66/party/service"
 	"io/ioutil"
-	"model"
 	"net/http"
-	"service"
 )
 
 type UserController struct {

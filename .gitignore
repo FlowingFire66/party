@@ -13,3 +13,14 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+/.idea/.gitignore
+/.idea/activity.iml
+/foot.err
+/logs/foot.err.20210216
+/foot.log
+/logs/foot.log.20210216
+/go.mod
+/go.sum
+/.idea/modules.xml
+/.idea/vcs.xml
+/.idea/webResources.xml
